@@ -1,0 +1,23 @@
+[
+  {
+    "from": "js/*",
+    "to": "js/*",
+    "method": "GET",
+    "query": {}
+  },
+  {
+    "from": "images/*",
+    "to": "images/*",
+    "method": "GET",
+    "query": {}
+  }
+]
+
+
+
+
+
+
+
+
+
